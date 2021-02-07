@@ -1,3 +1,4 @@
 #Name-Shifting-LCD
-**This project working on LCD 16x2
+
+**This project working on LCD 16x2**
 
